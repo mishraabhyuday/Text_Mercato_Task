@@ -5,4 +5,7 @@ This includes 2  assignments ,which aim to find the textual description of a fas
 
 Assgn1:
 In  this ,we input a set of images and their text descriptions and use ResNet(CNN) alongwith LSTM(RNN) to prepare our model
+A sequential model is built using Keras and is trained in 500 image dataset with 100 Epochs.
+The average training accuracy is about 45% .
+The final prediction is shown in the below lines of code and is tested over an image test_img.jpg downloaded from internet and later on random 5 images from the dataset.
 
