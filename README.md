@@ -9,3 +9,8 @@ A sequential model is built using Keras and is trained in 500 image dataset with
 The average training accuracy is about 45% .
 The final prediction is shown in the below lines of code and is tested over an image test_img.jpg downloaded from internet and later on random 5 images from the dataset.
 
+Assgn2:
+In this, we input images and expect to get the Neckline,Material,etc. 
+The CNN model is very less accurate due to less dataset available,hence I used the VGG19 model and trained the model on the given dataset alongwith using augmentation
+technique to optimize my algorithm.
+Hence ,This is the soln.
